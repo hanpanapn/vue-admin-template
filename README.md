@@ -85,12 +85,12 @@ cd vue-admin-template
 npm install --registry=https://registry.npm.taobao.org
 ```
 
-#### 开发
+#### 本地运行
 ```
 npm run serve
 ```
 
-#### 打包
+#### 打包出正式环境代码，自动生成到dist目录
 ````
 npm run build
 ````
