@@ -82,7 +82,7 @@ git clone https://github.com/woai3c/vue-admin-template.git
 
 cd vue-admin-template
 
-npm i
+npm install --registry=https://registry.npm.taobao.org
 ```
 
 #### 开发
